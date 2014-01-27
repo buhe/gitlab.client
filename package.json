@@ -20,6 +20,8 @@
     "url": "https://github.com/buhe/gitlab.client/issues"
   },
   "dependencies": {
-    "gitlab": "~0.7.2"
+    "gitlab": "~0.7.2",
+    "consoler": "0.0.8",
+    "prompt": "~0.2.12"
   }
 }
