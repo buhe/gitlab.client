@@ -1,0 +1,25 @@
+{
+  "name": "gitlab.client",
+  "version": "0.0.0",
+  "description": "gitlab client",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buhe/gitlab.client.git"
+  },
+  "keywords": [
+    "gitlab",
+    "client"
+  ],
+  "author": "buhe",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/buhe/gitlab.client/issues"
+  },
+  "dependencies": {
+    "gitlab": "~0.7.2"
+  }
+}
